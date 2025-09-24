@@ -87,6 +87,10 @@ I am Luca Bousette, a bilingual computer science student from Montreal, Quebec, 
   <a href="https://godotengine.org/" target="_blank">
     <img alt="GDScript" src="https://img.shields.io/badge/GDScript-%23478CBF.svg?logo=godot-engine&logoColor=white">
   </a>
+
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white">
+  </a>
 </p>
 
 ### 🌐 Frontend Development
